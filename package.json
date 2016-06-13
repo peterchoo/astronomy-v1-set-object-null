@@ -1,0 +1,10 @@
+{
+  "name": "astronomy-v1-set-object-null",
+  "private": true,
+  "scripts": {
+    "start": "meteor run"
+  },
+  "dependencies": {
+    "meteor-node-stubs": "~0.2.0"
+  }
+}
